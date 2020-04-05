@@ -1,0 +1,21 @@
+								Web Teknolojileri Projesi 			
+
+															Tarık BÜKÜCÜ
+														         G191210048
+Proje AMACI
+    • Derste öğrenilen bilgiler (HTML, CSS, Javascript vb.) kullanılarak bir web sitesi geliştirilmesi
+PROJE DETAYLARI
+    • Kendimi ve şehrimi tanıtan bir web sayfası oluşturma.
+    • Hakkında sayfası,giriş niteliğinde olup kendi hobilerimden bahsettiğim kısım olacaktır.
+    • Özgeçmiş sayfası,eğitim hayatım ve CV niteliğinde bilgiler olacaktır. 
+    • Şehrim sayfası,yaşadığım şehrin genel bilgileri ve görselleri olacaktır.
+    • Mirasımız sayfası,şehrin takımını HTML kullanarak tanıtılan bir sayfa olacaktır.
+    • Login sayfası, öğrenci numarası ve şifre ile gireceğimiz bir kısım olacaktır.
+    • İletişim sayfası,ziyaretçilerin bana ulaşılabilmesi için iletişim bilgilerim olacaktır.
+PROJE İŞLEYİŞİ
+    • Yukarıdaki seçeneklerden oluşan site, Sakarya Üniversitesi Bilgisayar Mühendisği Web Teknolojileri proje ödevidir.
+Tamamlanan her seçenek verilen süre zarfları içerisinde commitlerle GitHub'a yüklenecektir.
+     
+
+
+
